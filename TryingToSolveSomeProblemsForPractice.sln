@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryingToSolveSomeProblemsForPractice", "TryingToSolveSomeProblemsForPractice\TryingToSolveSomeProblemsForPractice.csproj", "{C5AC01DA-0B38-4E53-915E-E37C4717C234}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindingSpecialNumbers", "FindingSpecialNumbers\FindingSpecialNumbers.csproj", "{BE2E0626-890E-436D-9EDA-B9EE1F5A4016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingSpecialNumbers", "FindingSpecialNumbers\FindingSpecialNumbers.csproj", "{BE2E0626-890E-436D-9EDA-B9EE1F5A4016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Commerce", "E-Commerce\E-Commerce.csproj", "{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C5AC01DA-0B38-4E53-915E-E37C4717C234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5AC01DA-0B38-4E53-915E-E37C4717C234}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5AC01DA-0B38-4E53-915E-E37C4717C234}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5AC01DA-0B38-4E53-915E-E37C4717C234}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BE2E0626-890E-436D-9EDA-B9EE1F5A4016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BE2E0626-890E-436D-9EDA-B9EE1F5A4016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE2E0626-890E-436D-9EDA-B9EE1F5A4016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE2E0626-890E-436D-9EDA-B9EE1F5A4016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

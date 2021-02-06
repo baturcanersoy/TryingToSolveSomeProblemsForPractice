@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace FindingSpecialNumbers//Karesinin 2 katinin 1 eksigi bir tamsayinin karesi olan sayilari bulmaya calıstık.
+namespace FindingSpecialNumbers//I tried to find some special numbers. İf we call these numbers as x;
+//((x^2)*2)-1=y^2 and y must be integer
 {
     class Program
     {
@@ -16,7 +17,7 @@ namespace FindingSpecialNumbers//Karesinin 2 katinin 1 eksigi bir tamsayinin kar
                 int sayi = 0;
                 if (int.TryParse(convert, out sayi))
                 {
-                    Console.WriteLine(i+"'nin karesinin 2 katinin 1 eksigi "+sayi+"'nin karesidir ve bu nedenle "+i+"özel sayidir.");
+                    Console.WriteLine(i);
                 }
             }
 
