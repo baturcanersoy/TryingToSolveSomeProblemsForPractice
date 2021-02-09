@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindingSpecialNumbers", "Fi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Commerce", "E-Commerce\E-Commerce.csproj", "{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTracking", "CustomerTracking\CustomerTracking.csproj", "{425EB501-4E38-441A-8E1A-5FA68A867326}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B96730E-7464-4D8E-80EF-B0C84B1B3E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425EB501-4E38-441A-8E1A-5FA68A867326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425EB501-4E38-441A-8E1A-5FA68A867326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425EB501-4E38-441A-8E1A-5FA68A867326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425EB501-4E38-441A-8E1A-5FA68A867326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
